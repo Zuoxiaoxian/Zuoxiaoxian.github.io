@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>左孝贤</title>
+  <icon>https://www.gravatar.com/avatar/656f2fdca7ffa2e38db924c7b1e71206</icon>
+  <subtitle>修月狂</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="%5Bobject%20Object%5D" rel="hub"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2019-05-20T11:15:39.791Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>XiaoXian Zuo</name>
+    <email>1980179070@qq.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎来到我爱编程</title>
+    <link href="http://yoursite.com/2019/05/19/hello-world/"/>
+    <id>http://yoursite.com/2019/05/19/hello-world/</id>
+    <published>2019-05-19T13:53:20.867Z</published>
+    <updated>2019-05-20T11:15:39.791Z</updated>
+    
+    <content type="html"><![CDATA[<p>君不见， 黄河之水天上来，奔流到海不复回。<br>君不见， 高堂明镜悲白发，朝如青丝暮成雪。<br>人生得以需尽欢，莫使金樽空对月。<br>天生我材必有用，千金散尽还复来。<br>烹羊宰牛且为乐，会须一饮三百杯。<br>岑夫子，丹丘生，将进酒，杯莫停。<br>与君歌一曲，请君为我倾耳听。<br>钟鼓馔玉不足贵，但愿长醉不复醒。<br>古来圣贤皆寂寞，惟有饮者留其名。<br>陈王昔时宴平乐，斗酒十千恣欢谑。<br>主人何为言少钱，径须沽取对君酌。<br>五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python 实用库</span><br></pre></td></tr></table></figure><p>详细: <a href="https://github.com/Zuoxiaoxian/awesome-python" target="_blank" rel="noopener">实用库</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;君不见， 黄河之水天上来，奔流到海不复回。&lt;br&gt;君不见， 高堂明镜悲白发，朝如青丝暮成雪。&lt;br&gt;人生得以需尽欢，莫使金樽空对月。&lt;br&gt;天生我材必有用，千金散尽还复来。&lt;br&gt;烹羊宰牛且为乐，会须一饮三百杯。&lt;br&gt;岑夫子，丹丘生，将进酒，杯莫停。&lt;br&gt;与君歌一曲，请
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
